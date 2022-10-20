@@ -14,12 +14,12 @@ sections:
         - title: STE What’s Next?!
           description: ""
           url: https://www.stewhatsnext.gov.sg
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: STE Heroes
+          description: ""
+          url: /selin/hero/
+        - title: STE Stickers
+          description: ""
+          url: /Selin/stickers
       background: /images/018D42E7-C501-498C-8DF8-6E34092AD70D.jpeg
   - infobar:
       title: Infobar title
