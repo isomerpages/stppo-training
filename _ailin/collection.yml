@@ -1,4 +1,5 @@
 collections:
   ailin:
     output: true
-    order: []
+    order:
+      - Fireside Chat/.keep
