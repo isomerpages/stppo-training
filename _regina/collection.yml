@@ -2,4 +2,5 @@ collections:
   regina:
     output: true
     order:
+      - FAQ/.keep
       - About me/.keep
