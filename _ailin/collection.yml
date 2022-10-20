@@ -2,5 +2,6 @@ collections:
   ailin:
     output: true
     order:
+      - Intro.md
       - Courses/.keep
       - Fireside Chat/.keep
