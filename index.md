@@ -8,8 +8,8 @@ notification: Join us in the upcoming Robotics & Automation webinar!
 sections:
   - hero:
       title: Public Sector Science, Technology & Engineering
-      button: STE Heroes
-      url: /selin/hero/
+      button: See Minister’s Speech
+      url: /selin/min
       key_highlights:
         - title: STE What’s Next?!
           description: ""
