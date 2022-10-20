@@ -14,5 +14,6 @@ Merit Awards:
 
 ![Verajtc](/images/Verajtc.jpg)
 
+Distinguished Award:
 
 ![Judithnea](/images/Judithnea.jpeg)
