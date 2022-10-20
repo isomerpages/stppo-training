@@ -2,4 +2,5 @@ collections:
   selin:
     output: true
     order:
+      - STE stickers.md
       - Unsung Heroes & Heroines.md
