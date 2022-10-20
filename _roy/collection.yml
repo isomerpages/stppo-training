@@ -2,4 +2,5 @@ collections:
   roy:
     output: true
     order:
+      - SUB ROY/MAIN R.md
       - SUB ROY/.keep
