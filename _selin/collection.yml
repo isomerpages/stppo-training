@@ -1,4 +1,5 @@
 collections:
   selin:
     output: true
-    order: []
+    order:
+      - Pics/.keep
