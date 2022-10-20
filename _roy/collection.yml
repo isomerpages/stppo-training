@@ -1,4 +1,5 @@
 collections:
   roy:
     output: true
-    order: []
+    order:
+      - SUB ROY/.keep
