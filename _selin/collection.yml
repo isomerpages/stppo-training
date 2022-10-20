@@ -2,5 +2,6 @@ collections:
   selin:
     output: true
     order:
+      - Minister’s Speech.md
       - STE stickers.md
       - Unsung Heroes & Heroines.md
