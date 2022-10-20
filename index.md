@@ -8,7 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Public Sector Science, Technology & Engineering
-      background: /images/STEC2022.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -27,4 +26,10 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
