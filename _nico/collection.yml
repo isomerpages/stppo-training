@@ -1,0 +1,4 @@
+collections:
+  nico:
+    output: true
+    order: []
