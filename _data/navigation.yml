@@ -6,3 +6,6 @@ links:
     url: /example-page/
   - title: ROY’s Page
     collection: roy
+  - title: FAQ!
+    url: /faq
+    sublinks: []
