@@ -1,11 +1,11 @@
 logo: /images/5B7EAE41-0269-437D-AA0A-4C1948CD5A69.png
 links:
+  - title: STE Heroes
+    url: /selin/hero/
   - title: ROY’s Page
     collection: roy
   - title: Contact Us
     url: /contact-us/
-  - title: STE Heroes
-    url: /selin/hero/
   - title: FAQ!
     url: /faq
     sublinks: []
