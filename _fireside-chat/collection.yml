@@ -1,0 +1,4 @@
+collections:
+  fireside-chat:
+    output: true
+    order: []
