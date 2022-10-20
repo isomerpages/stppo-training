@@ -1,4 +1,5 @@
 collections:
   jamie:
     output: true
-    order: []
+    order:
+      - Jamie's.md
