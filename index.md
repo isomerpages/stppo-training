@@ -4,12 +4,12 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Join us in the upcoming Robotics & Automation webinar!
 sections:
   - hero:
       title: Public Sector Science, Technology & Engineering
-      button: Contact Us
-      url: /contact-us/
+      button: STE Heroes
+      url: /selin/hero/
       key_highlights:
         - title: "Hero’s & Heroines "
           description: ""
