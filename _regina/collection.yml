@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - FAQ/.keep
+      - About me/Fun Facts.md
       - About me/.keep
