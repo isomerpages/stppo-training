@@ -32,4 +32,10 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - infobar:
+      title: Coffee
+      subtitle: All about Coffee
+      description: "Different kind of Coffee "
+      button: See more coffee
+      url: Nespresso homepage
 ---
