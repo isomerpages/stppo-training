@@ -11,7 +11,7 @@ sections:
       button: STE Heroes
       url: /selin/hero/
       key_highlights:
-        - title: "Hero’s & Heroines "
+        - title: STE What’s Next?!
           description: ""
           url: https://www.stewhatsnext.gov.sg
         - title: Highlight B
