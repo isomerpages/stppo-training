@@ -1,0 +1,4 @@
+collections:
+  regina:
+    output: true
+    order: []
